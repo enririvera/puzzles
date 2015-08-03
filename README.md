@@ -1,2 +1,2 @@
 # puzzles
-Coding problems
+Set of small coding puzzles / problems.
